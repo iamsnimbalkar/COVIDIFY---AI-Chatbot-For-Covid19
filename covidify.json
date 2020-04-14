@@ -1,0 +1,2576 @@
+{
+  "intents": [
+    {
+      "intent": "j",
+      "examples": [
+        {
+          "text": "j."
+        },
+        {
+          "text": "j"
+        },
+        {
+          "text": "j)"
+        },
+        {
+          "text": "Who is at risk of developing severe illness"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "a",
+      "examples": [
+        {
+          "text": "a)"
+        },
+        {
+          "text": "What is corona virus"
+        },
+        {
+          "text": "a."
+        },
+        {
+          "text": "a"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "k",
+      "examples": [
+        {
+          "text": "k)"
+        },
+        {
+          "text": "Are antibiotics effective in preventing or treating the COVID-19"
+        },
+        {
+          "text": "k."
+        },
+        {
+          "text": "k"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Abort",
+      "examples": [
+        {
+          "text": "terminate chatbot"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "cancel"
+        },
+        {
+          "text": "Exit"
+        },
+        {
+          "text": "i want to abort"
+        },
+        {
+          "text": "NO"
+        },
+        {
+          "text": "abort"
+        }
+      ],
+      "description": "Thanks"
+    },
+    {
+      "intent": "3",
+      "examples": [
+        {
+          "text": "3)"
+        },
+        {
+          "text": "3."
+        },
+        {
+          "text": "three"
+        },
+        {
+          "text": "3"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "i",
+      "examples": [
+        {
+          "text": "i"
+        },
+        {
+          "text": "How likely am I to catch COVID-19"
+        },
+        {
+          "text": "i."
+        },
+        {
+          "text": "i)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "5",
+      "examples": [
+        {
+          "text": "5)"
+        },
+        {
+          "text": "5."
+        },
+        {
+          "text": "five"
+        },
+        {
+          "text": "5"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "g",
+      "examples": [
+        {
+          "text": "g"
+        },
+        {
+          "text": "Can I catch COVID-19 from the feces of someone with the disease"
+        },
+        {
+          "text": "g."
+        },
+        {
+          "text": "g)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "l",
+      "examples": [
+        {
+          "text": "l)"
+        },
+        {
+          "text": "l"
+        },
+        {
+          "text": "l."
+        },
+        {
+          "text": "Are there any medicines or therapies that can prevent or cure COVID-19"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "e",
+      "examples": [
+        {
+          "text": "e."
+        },
+        {
+          "text": "Can the virus that causes COVID-19 be transmitted through the air"
+        },
+        {
+          "text": "e"
+        },
+        {
+          "text": "e)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "8",
+      "examples": [
+        {
+          "text": "8."
+        },
+        {
+          "text": "8"
+        },
+        {
+          "text": "eight"
+        },
+        {
+          "text": "8)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "User_response_for_Services.",
+      "examples": [
+        {
+          "text": "covid"
+        },
+        {
+          "text": "corona"
+        },
+        {
+          "text": "services"
+        },
+        {
+          "text": "need details of corona"
+        },
+        {
+          "text": "need help"
+        },
+        {
+          "text": "pandemic"
+        },
+        {
+          "text": "coronavirus"
+        },
+        {
+          "text": "menu"
+        },
+        {
+          "text": "Y"
+        },
+        {
+          "text": "Yes"
+        },
+        {
+          "text": "Yes i would like to know about services"
+        },
+        {
+          "text": "What services you offered"
+        },
+        {
+          "text": "Home"
+        },
+        {
+          "text": "I want to know about corona"
+        },
+        {
+          "text": "hotspot"
+        },
+        {
+          "text": "aarogya setu app"
+        },
+        {
+          "text": "E-pass"
+        },
+        {
+          "text": "i want to know about e pass"
+        },
+        {
+          "text": "i want to know about covid"
+        },
+        {
+          "text": "India helpline"
+        },
+        {
+          "text": "covid19"
+        },
+        {
+          "text": "covid-19 details"
+        },
+        {
+          "text": "I want to know about Corona virus"
+        },
+        {
+          "text": "covid-19"
+        },
+        {
+          "text": "what is corona"
+        },
+        {
+          "text": "help me with details of corona"
+        },
+        {
+          "text": "testing and collection lab centre"
+        },
+        {
+          "text": "i want information"
+        },
+        {
+          "text": "curfew"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "p",
+      "examples": [
+        {
+          "text": "How to put on use take off and dispose of a mask"
+        },
+        {
+          "text": "p."
+        },
+        {
+          "text": "p)"
+        },
+        {
+          "text": "p"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "h",
+      "examples": [
+        {
+          "text": "h)"
+        },
+        {
+          "text": "What can I do to protect myself and prevent the spread of disease"
+        },
+        {
+          "text": "h."
+        },
+        {
+          "text": "h"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "n",
+      "examples": [
+        {
+          "text": "n."
+        },
+        {
+          "text": "n)"
+        },
+        {
+          "text": "n"
+        },
+        {
+          "text": "Is COVID-19 the same as SARS"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "11",
+      "examples": [
+        {
+          "text": "11"
+        },
+        {
+          "text": "11)"
+        },
+        {
+          "text": "11."
+        },
+        {
+          "text": "eleven"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Greetings",
+      "examples": [
+        {
+          "text": "Hello Covidify"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Help me covidify"
+        },
+        {
+          "text": "Let's start"
+        },
+        {
+          "text": "Good morning evening afternoon"
+        },
+        {
+          "text": "hey there"
+        },
+        {
+          "text": "hi there"
+        }
+      ],
+      "description": "Welcoming user"
+    },
+    {
+      "intent": "d",
+      "examples": [
+        {
+          "text": "How does COVID-19 spread"
+        },
+        {
+          "text": "d"
+        },
+        {
+          "text": "d."
+        },
+        {
+          "text": "d)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "14",
+      "examples": [
+        {
+          "text": "14"
+        },
+        {
+          "text": "fourteen"
+        },
+        {
+          "text": "14)"
+        },
+        {
+          "text": "14."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "t",
+      "examples": [
+        {
+          "text": "t)"
+        },
+        {
+          "text": "t."
+        },
+        {
+          "text": "How long does the virus survive on surfaces"
+        },
+        {
+          "text": "t"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "f",
+      "examples": [
+        {
+          "text": "f."
+        },
+        {
+          "text": "Can CoVID-19 be caught from a person who has no symptoms"
+        },
+        {
+          "text": "f"
+        },
+        {
+          "text": "f)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "q",
+      "examples": [
+        {
+          "text": "q)"
+        },
+        {
+          "text": "q."
+        },
+        {
+          "text": "q"
+        },
+        {
+          "text": "How long is the incubation period for COVID-19"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "s",
+      "examples": [
+        {
+          "text": "s."
+        },
+        {
+          "text": "s)"
+        },
+        {
+          "text": "Can I catch COVID-19 from my pet"
+        },
+        {
+          "text": "s"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "4",
+      "examples": [
+        {
+          "text": "4."
+        },
+        {
+          "text": "4)"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "four"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "10",
+      "examples": [
+        {
+          "text": "10"
+        },
+        {
+          "text": "ten"
+        },
+        {
+          "text": "10."
+        },
+        {
+          "text": "10)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "12",
+      "examples": [
+        {
+          "text": "twelve"
+        },
+        {
+          "text": "12"
+        },
+        {
+          "text": "12."
+        },
+        {
+          "text": "12)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "13",
+      "examples": [
+        {
+          "text": "thirteen"
+        },
+        {
+          "text": "13"
+        },
+        {
+          "text": "13."
+        },
+        {
+          "text": "13)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "6",
+      "examples": [
+        {
+          "text": "6"
+        },
+        {
+          "text": "six"
+        },
+        {
+          "text": "6."
+        },
+        {
+          "text": "6)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "v",
+      "examples": [
+        {
+          "text": "v."
+        },
+        {
+          "text": "Is there anything I should not do"
+        },
+        {
+          "text": "v)"
+        },
+        {
+          "text": "v"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "b",
+      "examples": [
+        {
+          "text": "b."
+        },
+        {
+          "text": "What is COVID-19"
+        },
+        {
+          "text": "b)"
+        },
+        {
+          "text": "b"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "o",
+      "examples": [
+        {
+          "text": "Should I wear mask to protect myself"
+        },
+        {
+          "text": "o"
+        },
+        {
+          "text": "o)"
+        },
+        {
+          "text": "o."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "u",
+      "examples": [
+        {
+          "text": "Is it safe to receive a package from any area where COVID-19 has been reported"
+        },
+        {
+          "text": "u"
+        },
+        {
+          "text": "u."
+        },
+        {
+          "text": "u)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "2",
+      "examples": [
+        {
+          "text": "two"
+        },
+        {
+          "text": "2."
+        },
+        {
+          "text": "2)"
+        },
+        {
+          "text": "2"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "m",
+      "examples": [
+        {
+          "text": "Is there a vaccine drug or treatment for COVID-19"
+        },
+        {
+          "text": "m"
+        },
+        {
+          "text": "m)"
+        },
+        {
+          "text": "m."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "7",
+      "examples": [
+        {
+          "text": "7."
+        },
+        {
+          "text": "seven"
+        },
+        {
+          "text": "7)"
+        },
+        {
+          "text": "7"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "9",
+      "examples": [
+        {
+          "text": "nine"
+        },
+        {
+          "text": "9"
+        },
+        {
+          "text": "9)"
+        },
+        {
+          "text": "9."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "c",
+      "examples": [
+        {
+          "text": "c"
+        },
+        {
+          "text": "What are the symptoms of COVID-19"
+        },
+        {
+          "text": "c."
+        },
+        {
+          "text": "c)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "r",
+      "examples": [
+        {
+          "text": "Can humans become infected with the COVID-19 from an animal source"
+        },
+        {
+          "text": "r"
+        },
+        {
+          "text": "r)"
+        },
+        {
+          "text": "r."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "1",
+      "examples": [
+        {
+          "text": "one"
+        },
+        {
+          "text": "1"
+        },
+        {
+          "text": "1)"
+        },
+        {
+          "text": "1."
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "1 - copy1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What would you like to know about COVID-19 ?"
+              },
+              {
+                "text": "Hers is the list FQA."
+              },
+              {
+                "text": "a) What is corona virus ?"
+              },
+              {
+                "text": "b) What is COVID-19 ?"
+              },
+              {
+                "text": "c) What are the symptoms of COVID-19 ?"
+              },
+              {
+                "text": "d) How does COVID-19 spread ?"
+              },
+              {
+                "text": "e) Can the virus that causes COVID-19 be transmitted through the air ? "
+              },
+              {
+                "text": "f) Can CoVID-19 be caught from a person who has no symptoms ? "
+              },
+              {
+                "text": "g) Can I catch COVID-19 from the feces of someone with the disease ? "
+              },
+              {
+                "text": "h) What can I do to protect myself and prevent the spread of\ndisease ?"
+              },
+              {
+                "text": "i) How likely am I to catch COVID-19 ?"
+              },
+              {
+                "text": "j) Who is at risk of developing severe illness ?"
+              },
+              {
+                "text": "k) Are antibiotics effective in preventing or treating the COVID-19 ?"
+              },
+              {
+                "text": "l) Are there any medicines or therapies that can prevent or cure\nCOVID-19 ?"
+              },
+              {
+                "text": "m) Is there a vaccine drug or treatment for COVID-19 ?"
+              },
+              {
+                "text": "n) Is COVID-19 the same as SARS ?"
+              },
+              {
+                "text": "o) Should I wear mask to protect myself ?"
+              },
+              {
+                "text": "p) How to put on use take off and dispose of a mask ?"
+              },
+              {
+                "text": "q) How long is the incubation period for COVID-19 ?"
+              },
+              {
+                "text": "r) Can humans become infected with the COVID-19 from an animal source ?"
+              },
+              {
+                "text": "s) Can I catch COVID-19 from my pet ?"
+              },
+              {
+                "text": "t) How long does the virus survive on surfaces ?"
+              },
+              {
+                "text": "u) Is it safe to receive a package from any area where COVID-19 has been reported ?"
+              },
+              {
+                "text": "v) Is there anything I should not do ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1586274314674",
+      "conditions": "#1",
+      "dialog_node": "node_1_1586364203082"
+    },
+    {
+      "type": "standard",
+      "title": "k",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No. Antibiotics do not work against viruses, they only work on\nbacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#k",
+      "dialog_node": "node_12_1586364203089",
+      "previous_sibling": "node_11_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "s",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "While there has been one instance of a dog being infected in Hong Kong, to date, there is no evidence that a dog, cat or any pet can transmit COVID-19. COVID-19 is mainly spread through droplets produced when an infected person coughs, sneezes, or speaks. To protect yourself, clean your hands frequently and thoroughly. We continues to monitor the latest research on this and other COVID-19 topics and will update as new findings are available."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#s",
+      "dialog_node": "node_20_1586364203089",
+      "previous_sibling": "node_19_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "u",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes. The likelihood of an infected person contaminating commercial goods is low and the risk of catching the virus that causes COVID-19 from a package that has been moved, travelled, and exposed to different conditions and temperature is also low."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#u",
+      "dialog_node": "node_22_1586364203089",
+      "previous_sibling": "node_21_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "n",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No. The virus that causes COVID-19 and the one that caused the outbreak of Severe Acute Respiratory Syndrome (SARS) in 2003 are related to each other genetically, but the diseases they cause are quite different.\nSARS was more deadly but much less infectious than COVID-19.\nThere have been no outbreaks of SARS anywhere in the world since 2003."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#n",
+      "dialog_node": "node_15_1586364203089",
+      "previous_sibling": "node_14_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "h",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "PROTECTION MEASURES FOR EVERYONE :\n\nStay aware of the latest information on the COVID-19 outbreak, available on the national,state and local public health authority. Many countries around the world have seen cases of COVID-19 and several have seen outbreaks. Authorities in China and some other countries\nhave succeeded in slowing or stopping their outbreaks. However, the situation is unpredictable so check regularly for the latest news.\n\nYou can reduce your chances of being infected or spreading COVID-19 by taking some simple precautions:\n\n-> Regularly and thoroughly clean your hands with an alcohol-\nbased hand rub or wash them with soap and water.\nWhy? Washing your hands with soap and water or using\nalcohol-based hand rub kills viruses that may be on your hands.\n\n-> Maintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing.\nWhy? When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease.\n\n-> Avoid touching eyes, nose and mouth.\nWhy? Hands touch many surfaces and can pick up viruses.\nOnce contaminated, hands can transfer the virus to your eyes,\nnose or mouth. From there, the virus can enter your body and\ncan make you sick. Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. \n"
+              },
+              {
+                "text": "-> dispose of the used tissue immediately.\nWhy? Droplets spread virus. By following good respiratory\nhygiene you protect the people around you from viruses such as cold, flu and COVID-19.\n\n-> Stay home if you feel unwell. If you have a fever, cough and\ndifficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority.\nWhy? National and local authorities will have the most up to date information on the situation in your area. Calling in advance will allow your health care provider to quickly direct you to the right health facility. This will also protect you and help prevent spread of viruses and other infections.\nKeep up to date on the latest COVID-19 hotspots (cities or local areas where COVID-19 is spreading widely). \n\n->If possible, avoid traveling to places – especially if you are an older person or have diabetes, heart or lung disease.\nWhy? You have a higher chance of catching COVID-19 in one of these areas.\n\n\nPROTECTON MEASURES FOR PERSONS WHO ARE IN OR HAVE RECENTLY VISITED (PAST\n14 DAYS) AREAS WHERE COVID-19 IS SPREADING :\n\nFollow the guidance outlined above (Protection measures for\neveryone)\n\n-> Self-isolate by staying at home if you begin to feel unwell, even with mild symptoms such as headache, low grade fever (37.3 C or above) and slight runny nose, until you recover. If it is essential for you to have someone bring you supplies or to go out, e.g. to buy food, then wear a mask to avoid infecting other people.\nWhy? Avoiding contact with others and visits to medical facilities will allow these facilities to operate more effectively and help protect you and others from possible COVID-19 and other viruses.\n\n-> If you develop fever, cough and difficulty breathing, seek\nmedical advice promptly as this may be due to a respiratory\ninfection or other serious condition. Call in advance and tell your provider of any recent travel or contact with travelers.\nWhy? Calling in advance will allow your health care provider to\nquickly direct you to the right health facility. This will also help to prevent possible spread of COVID-19 and other viruses."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#h",
+      "dialog_node": "node_9_1586364203089",
+      "previous_sibling": "node_8_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "p",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "1) Remember, a mask should only be used by health workers, care takers, and individuals with respiratory symptoms, such as fever and cough.\n2) Before touching the mask, clean hands with an alcohol-based hand rub or soap and water\n3) Take the mask and inspect it for tears or holes.\n4) Orient which side is the top side (where the metal strip is).\n5) Ensure the proper side of the mask faces outwards (the coloured side).\n6) Place the mask to your face. Pinch the metal strip or stiff edge of the mask so it moulds to the shape of your nose.\n7) Pull down the mask’s bottom so it covers your mouth and your chin.\n8) After use, take off the mask; remove the elastic loops from behind the ears while keeping the mask away from your face and clothes, to avoid touching potentially contaminated surfaces of the mask.\n9) Discard the mask in a closed bin immediately after use.\n10) Perform hand hygiene after touching or discarding the mask – Use alcohol-based hand rub or, if visibly soiled, wash your hands with soap and water."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#p",
+      "dialog_node": "node_17_1586364203089",
+      "previous_sibling": "node_16_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "q",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The “incubation period” means the time between catching the virus and beginning to have symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days. These estimates will be updated as more data become available."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#q",
+      "dialog_node": "node_18_1586364203089",
+      "previous_sibling": "node_17_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "d",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a\nperson with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#d",
+      "dialog_node": "node_5_1586364203089",
+      "previous_sibling": "node_4_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "b",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "COVID-19 is the infectious disease caused by the most recently\ndiscovered corona virus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1586364203082"
+      },
+      "conditions": "#b",
+      "dialog_node": "node_3_1586364203089",
+      "previous_sibling": "node_2_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "t",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It is not certain how long the virus that causes COVID-19 survives on surfaces, but it seems to behave like other corona viruses. Studies suggest that corona viruses (including preliminary information on the COVID-19 virus) may persist on surfaces for a few hours or up to several days. This may vary under different conditions (e.g. type of surface, temperature or humidity of the environment).\nIf you think a surface may be infected, clean it with simple disinfectant to kill the virus and protect yourself and others. Clean your hands withan alcohol-based hand rub or wash them with soap and water. Avoid touching your eyes, mouth, or nose."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#t",
+      "dialog_node": "node_21_1586364203089",
+      "previous_sibling": "node_20_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "v",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The following measures ARE NOT effective against COVID-2019 and can be harmful :\n-> Smoking\n-> Wearing multiple masks\n-> Taking antibiotics (See question 10 \"Are there any medicines of therapies that can prevent or cure COVID-19?\")\n\nIn any case, if you have fever, cough and difficulty breathing seek medical care early to reduce the risk of developing a more severe infection and be sure to share your recent travel history with your health care provider."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#v",
+      "dialog_node": "node_23_1586364203089",
+      "previous_sibling": "node_22_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "c",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually. Some people become infected but don’t develop any symptoms and don't feel unwell. Most people (about 80%) recover from the disease without needing special treatment. Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#c",
+      "dialog_node": "node_4_1586364203089",
+      "previous_sibling": "node_3_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "r",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Corona viruses are a large family of viruses that are common in animals. Occasionally, people get infected with these viruses which may then spread to other people. For example, SARS-CoV was associated with civet cats and MERS-CoV is transmitted by dromedary camels. Possible animal sources of COVID-19 have not yet been confirmed.\nTo protect yourself, such as when visiting live animal markets, avoid direct contact with animals and surfaces in contact with animals. Ensure good food safety practices at all times. Handle raw meat, milk or animal organs with care to avoid contamination of uncooked foods and avoid consuming raw or under cooked animal products."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#r",
+      "dialog_node": "node_19_1586364203089",
+      "previous_sibling": "node_18_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "l",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. We does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. We will continue to provide updated information as soon as clinical findings are available."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#l",
+      "dialog_node": "node_13_1586364203089",
+      "previous_sibling": "node_12_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "m",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Not yet. To date, there is no vaccine and no specific antiviral medicine to prevent or treat COVID-2019. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care.Possible vaccines and some specific drug treatments are under investigation. They are being tested through clinical trials. The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue, and maintain a distance of at least 1 meter (3 feet) from people who are coughing or sneezing"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#m",
+      "dialog_node": "node_14_1586364203089",
+      "previous_sibling": "node_13_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "g",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The risk of catching COVID-19 from the feces of an infected person appears to be low. While initial investigations suggest the virus may be present in feces in some cases, spread through this route is not amain feature of the outbreak. The ongoing research on the ways COVID-19 is spread and will continue to share new findings. Because this is a risk, however, it is another reason to clean hands regularly, after using the bathroom and before eating."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#g",
+      "dialog_node": "node_8_1586364203089",
+      "previous_sibling": "node_7_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "f",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The main way the disease spreads is through respiratory droplets expelled by someone who is coughing. The risk of catching COVID-19 from someone with no symptoms at all is very low. However, many people with COVID-19 experience only mild symptoms. This is particularly true at the early stages of the disease. It is therefore possible to catch COVID-19 from someone who has, for example, just a mild cough and does not feel ill."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#f",
+      "dialog_node": "node_7_1586364203089",
+      "previous_sibling": "node_6_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "o",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Only wear a mask if you are ill with COVID-19 symptoms (especially coughing) or looking after someone who may have COVID-19. Disposable face mask can only be used once. If you are not ill or looking after someone who is ill then you are wasting a mask. There is a world-wide shortage of masks, so We urge people to use masks wisely. We advises rational use of medical masks to avoid unnecessary wastage of precious resources and mis-use of masks The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue and maintain a distance of at least 1 meter (3 feet) from people who are coughing or sneezing."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#o",
+      "dialog_node": "node_16_1586364203089",
+      "previous_sibling": "node_15_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "i",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The risk depends on where you are - and more specifically, whether there is a COVID-19 outbreak unfolding there.\nFor most people in most locations the risk of catching COVID-19 is still low. However, there are now places around the world (cities or areas) where the disease is spreading. For people living in, or visiting, these areas the risk of catching COVID-19 is higher. Governments and health authorities are taking vigorous action every time a new case of COVID-19 is identified. Be sure to comply with any local restrictions on travel, movement or large gatherings. Cooperating with\ndisease control efforts will reduce your risk of catching or spreading COVID-19. COVID-19 outbreaks can be contained and transmission stopped, as has been shown in China and some other countries. Unfortunately, new outbreaks can emerge rapidly. It’s important to be aware of the\nsituation where you are or intend to go."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#i",
+      "dialog_node": "node_10_1586364203089",
+      "previous_sibling": "node_9_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "j",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions (such as high blood pressure, heart disease, lung disease, cancer or diabetes) appear to develop serious illness more often than others."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#j",
+      "dialog_node": "node_11_1586364203089",
+      "previous_sibling": "node_10_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "e",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Studies to date suggest that the virus that causes COVID-19 is mainly transmitted through contact with respiratory droplets rather than through the air. See previous answer on “How does COVID-19 spread?”"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "conditions": "#e",
+      "dialog_node": "node_6_1586364203089",
+      "previous_sibling": "node_5_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "a",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Corona viruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1586364203082",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1586364203082"
+      },
+      "conditions": "#a",
+      "dialog_node": "node_2_1586364203089"
+    },
+    {
+      "type": "standard",
+      "title": "k",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No. Antibiotics do not work against viruses, they only work on\nbacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#k",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1586357780006",
+      "previous_sibling": "node_2_1586357821673"
+    },
+    {
+      "type": "standard",
+      "title": "n",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No. The virus that causes COVID-19 and the one that caused the outbreak of Severe Acute Respiratory Syndrome (SARS) in 2003 are related to each other genetically, but the diseases they cause are quite different.\nSARS was more deadly but much less infectious than COVID-19.\nThere have been no outbreaks of SARS anywhere in the world since 2003."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#n",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1586357943700",
+      "previous_sibling": "node_1_1586357997956"
+    },
+    {
+      "type": "standard",
+      "title": "7",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the list of authorised hospitals for testing & sample collection :"
+              },
+              {
+                "text": "1) ANDHRA PRADESH\n-> Testing centres\nSri Venkateswara Institute of Medical Sciences, Tirupati \nAndhra Medical College, Visakhapatnam, Andhra Pradesh \nGMC, Anantapur, Andhra Pradesh\n\n->Sample collection labs\nSiddhartha Medical College, Vijayawada  \nRajeev Gandhi Institute of Medical Sciences, Kadapa  \nRangaraya Medical College, Kakinada  \nGuntur Medical College, Guntur\n\n2) ANDAMAN & NICOBAR\n-> Testing centres\nRegional Medical Research Centre, Port Blair, Andaman and Nicobar \n\n3) ASSAM\n-> Testing centres\nGauhati Medical College, Guwahati\nRegional Medical Research Center, Dibrugarh\n\n->Sample collection labs\nSilchar Medical College, Silchar \nJorhat Medical College, Jorhat  \nTezpur Medical College, Tezpur  \nFakhruddin Medical College, Barpeta \n\n4) BIHAR\n-> Testing centres\nRajendra Memorial Research Institute of Medical Sciences, Patna   \n\n->Sample collection labs\nPatna Medical College, Patna  \nDarbhanga Medical College, Darbhanga \nS K Medical College, Muzaffarpur\n\n5) CHANDIGARH\n-> Testing centres\nPost Graduate Institute of Medical Education & Research, Chandigarh   \n\n->Sample collection labs\nGovernment Medical College & Hospital, Chandigarh"
+              },
+              {
+                "text": "6) CHHATTISGARH\n-> Testing centres\nAll India Institute Medical Sciences, Raipur \n\n-> Sample collection labs\nLate Sri BaliramKashyap Memorial Govt. Medical College,  Jagdalpur \n\n7) DELHI – NCR\n-> Testing centres\nAll India Institute Medical Sciences, Delhi \nNational Centre for Disease Control, Delhi\n\n-> Sample collection labs\nLady Hardinge Medical College, New Delhi  \n\n8) GUJARAT\n-> Testing centres\nBJ Medical College, Ahmedabad  \nM.P.Shah Government Medical College, Jamnagar\n\n->Sample collection labs\nGovernment Medical College, Surat  1\nGMC, Bhavnagar \nPDU GMC, Rajkot \nGovernment Medical College & SSG Hospital, Vadodara \n\n9) HARYANA\n-> Testing centres\nPt. B.D. Sharma Post Graduate Inst. of Med. Sciences, Rohtak, Haryana \nBPS Govt Medical College, Sonipat\n\n10) HIMACHAL PRADESH\n-> Testing centres\nIndira Gandhi Medical College, Shimla, Himachal Pradesh  \nDr.Rajendra Prasad Govt. Med. College, Kangra, Tanda, Himachal Pradesh"
+              },
+              {
+                "text": "11) JAMMU AND KASHMIR\n-> Testing centres\nSher‐e‐ Kashmir Institute of Medical Sciences, Srinagar    \nGovernment Medical College, Jammu\n\n-> Sample collection labs\nGovernment Medical College, Srinagar\n\n12) JHARKHAND\n-> Testing centres\nMGM Medical College, Jamshedpur\n\n-> Sample collection labs\nRajendra Institute of Medical Sciences, Ranchi \n\n13) KARNATAKA\n-> Testing centres\nBangalore Medical College & Research Institute, Bangalore  \nNational Institute of Virology Field Unit Bangalore \nMysore Medical College & Research Institute, Mysore \nHassan Inst. of Med. Sciences, Hassan, Karnataka \nShimoga Inst. of Med. Sciences, Shivamogga, Karnataka \n\n-> Sample collection labs\nVijayanagar Institute of Medical Science, Bellary  \nGulbarga Institute Of Medical Sciences, Gulbarga\n\n14) KERALA\n-> Testing centres\nNational Institute of Virology Field Unit, Kerala  \nGovt. Medical College, Thiruvananthapuram, Kerala \nGovt. Medical College, Kozhikode, Kerala\n\n-> Sample collection labs\nGovernment Medical College, Thrissur\n\n15) LADAKH\n-> Sample collection labs\nSonam Namgyal Memorial Hospital, Leh \n"
+              },
+              {
+                "text": "16) MADHYA PRADESH\n-> Testing centres\nAll India Institute Medical Sciences, Bhopal \nNational Institute of Research in Tribal Health (NIRTH), Jabalpur\n\n->Sample collection labs\nBundelkhand Medical College, Sagar \nMGM Medical College, Indore  \nGajra Raja Medical College, Gwalior  \nS.S Medical College, Rewa\n\n17) MEGHALAYA\n-> Testing centres\nNEIGRI of Health and Medical Sciences, Shillong, Meghalaya\n\n18) MAHARASHTRA\n-> Testing centres\nIndira Gandhi Government Medical College, Nagpur  \nKasturba Hospital for Infectious Diseases, Mumbai\n\n-> Sample collection labs\nGovernment Medical College, Miraj, Sangli  \nSeth GS Medical College & KEM Hospital , Mumbai  \nGovernment Medical college, Nagpur  \nGovernment Medical College, Aurangabad   \nV. M. Government Medical College, Solapur   \nShri Bhausaheb Hire Government Medical College, Dhule  \nGovernment Medical College and Hospital & Superspeciality  Hospital, Akola \n\n19) MANIPUR\n-> Testing centres\nJ N Inst. of Med. Sciences Hospital, Imphal‐East, Manipur\n\n-> Sample collection labs\nRegional Institute of Medical Sciences, Imphal \n\n20) ODISHA\n-> Testing centres\nRegional Medical Research Center, Bhubaneswar   \n\n-> Sample collection labs\nSCB Medical College, Cuttack "
+              },
+              {
+                "text": "21) PUDUCHERRY\n-> Testing centres\nJawaharlal Institute of Postgraduate Medical Education & Research, Puducherry \n\n->Sample collection labs\nIndira Gandhi Medical College & Research Institute, Puducherry\n\n22) PUNJAB\n-> Testing centres\nGovernment Medical College, Patiala, Punjab \nGovernment Medical College, Amritsar\n\n23) RAJASTHAN\n-> Testing centres\nSawai Man Singh, Jaipur \nDr. S.N Medical College, Jodhpur \nJhalawar Medical College, Jhalawar, Rajasthan \nSP Med. College, Bikaner, Rajasthan\n\n-> Sample collection labs\nRNT Medical College, Udaipur  \nAIIMS, Jodhpur\n\n24) TAMIL NADU\n-> Testing centres\nKing’s Institute of Preventive Medicine & Research, Chennai  \nGovernment Medical College, Theni\n\n-> Sample collection labs\nMadurai Medical College, Madurai \nGovernment Mohan Kumaramangalam Medical College, Salem \nGovernment Medical College, Thiruvarur  \nGovernment Medical College, Villupuram  \nTirunelveli Medical College, Tirunelveli  \nCoimbatore Medical College, Coimbatore  \nMadras Medical College, Chennai, Tamil Nadu\n\n25) TRIPURA\n-> Testing centres\nGovernment Medical College, Agartala\n"
+              },
+              {
+                "text": "26) TELANGANA\n-> Testing centres\nGandhi Medical College, Secunderabad \n\n-> Sample collection labs\nOsmania Medical College, Hyderabad  \nKakatiya Medical College, Nizampura, Warangal\n\n27) UTTAR PRADESH\n-> Testing centres\nKing’s George Medical University, Lucknow \nInstitute of Medical Sciences, Banaras Hindu University, Varanasi  \nJawaharlal Nehru Medical College, Aligarh\n\n28) UTTARAKHAND\n-> Testing centres\nGovernment Medical College, Haldwani \n\n-> Sample collection labs\nAIIMS, Rishikesh  \nDoon Government Medical College, Dehradun\n\n29) WEST BENGAL\n-> Testing centres\nNational Institute of Cholera and Enteric Diseases, Kolkata \nIPGMER, Kolkata\n\n-> Sample collection labs\nMurshidabad Medical College & Hospital, Murshidabad,  Berhampur, West Bengal  \nMidnapore Medical College & Hospital, Midnapore  \nNorth Bengal Medical College, Darjeeling  \nMalda Medical College, Malda  \nRG Kar Medical College, Kolkata\n"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#7",
+      "dialog_node": "node_5_1586287188496",
+      "previous_sibling": "node_5_1586360021336"
+    },
+    {
+      "type": "standard",
+      "title": "6",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Aarogya Setu is a mobile application developed by the Government of India to connect essential health services with the people of India in our combined fight against COVID-19. The App is aimed at augmenting the initiatives of the Government of India, particularly the Department of Health, in proactively reaching out to and informing the users of the app regarding risks, best practices and relevant advisories pertaining to the containment of COVID-19.\nThis app version is compatible with android 6 and above . App for version 5 is actively being worked upon and will be released soon."
+              },
+              {
+                "text": "Download Link - https://www.mygov.in/aarogya-setu-app/"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#6",
+      "dialog_node": "node_6_1586286978591",
+      "previous_sibling": "node_5_1586287188496"
+    },
+    {
+      "type": "standard",
+      "title": "c",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually. Some people become infected but don’t develop any symptoms and don't feel unwell. Most people (about 80%) recover from the disease without needing special treatment. Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#c",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1586356478510",
+      "previous_sibling": "node_10_1586356674489"
+    },
+    {
+      "type": "standard",
+      "title": "l",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. We does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. We will continue to provide updated information as soon as clinical findings are available."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#l",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1586357821673",
+      "previous_sibling": "node_1_1586357867773"
+    },
+    {
+      "type": "standard",
+      "title": "b",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "COVID-19 is the infectious disease caused by the most recently\ndiscovered corona virus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#b",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1586352284181",
+      "previous_sibling": "node_8_1586356478510"
+    },
+    {
+      "type": "standard",
+      "title": "f",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The main way the disease spreads is through respiratory droplets expelled by someone who is coughing. The risk of catching COVID-19 from someone with no symptoms at all is very low. However, many people with COVID-19 experience only mild symptoms. This is particularly true at the early stages of the disease. It is therefore possible to catch COVID-19 from someone who has, for example, just a mild cough and does not feel ill."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#f",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1586356784832",
+      "previous_sibling": "node_10_1586356830326"
+    },
+    {
+      "type": "standard",
+      "title": "v",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The following measures ARE NOT effective against COVID-2019 and can be harmful :\n-> Smoking\n-> Wearing multiple masks\n-> Taking antibiotics (See question 10 \"Are there any medicines of therapies that can prevent or cure COVID-19?\")\n\nIn any case, if you have fever, cough and difficulty breathing seek medical care early to reduce the risk of developing a more severe infection and be sure to share your recent travel history with your health care provider."
+              },
+              {
+                "text": "-----------------------------------------------"
+              },
+              {
+                "text": "Press : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#v",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_7_1586358575639",
+      "previous_sibling": "node_7_1586281033076"
+    },
+    {
+      "type": "standard",
+      "title": "1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What would you like to know about COVID-19 ?"
+              },
+              {
+                "text": "Hers is the list FQA.\nKindly press alphabet associated with your question."
+              },
+              {
+                "text": "a) What is corona virus ?"
+              },
+              {
+                "text": "b) What is COVID-19 ?"
+              },
+              {
+                "text": "c) What are the symptoms of COVID-19 ?"
+              },
+              {
+                "text": "d) How does COVID-19 spread ?"
+              },
+              {
+                "text": "e) Can the virus that causes COVID-19 be transmitted through the air ? "
+              },
+              {
+                "text": "f) Can CoVID-19 be caught from a person who has no symptoms ? "
+              },
+              {
+                "text": "g) Can I catch COVID-19 from the feces of someone with the disease ? "
+              },
+              {
+                "text": "h) What can I do to protect myself and prevent the spread of\ndisease ?"
+              },
+              {
+                "text": "i) How likely am I to catch COVID-19 ?"
+              },
+              {
+                "text": "j) Who is at risk of developing severe illness ?"
+              },
+              {
+                "text": "k) Are antibiotics effective in preventing or treating the COVID-19 ?"
+              },
+              {
+                "text": "l) Are there any medicines or therapies that can prevent or cure\nCOVID-19 ?"
+              },
+              {
+                "text": "m) Is there a vaccine drug or treatment for COVID-19 ?"
+              },
+              {
+                "text": "n) Is COVID-19 the same as SARS ?"
+              },
+              {
+                "text": "o) Should I wear mask to protect myself ?"
+              },
+              {
+                "text": "p) How to put on use take off and dispose of a mask ?"
+              },
+              {
+                "text": "q) How long is the incubation period for COVID-19 ?"
+              },
+              {
+                "text": "r) Can humans become infected with the COVID-19 from an animal source ?"
+              },
+              {
+                "text": "s) Can I catch COVID-19 from my pet ?"
+              },
+              {
+                "text": "t) How long does the virus survive on surfaces ?"
+              },
+              {
+                "text": "u) Is it safe to receive a package from any area where COVID-19 has been reported ?"
+              },
+              {
+                "text": "v) Is there anything I should not do ?"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#1",
+      "dialog_node": "node_7_1586281033076",
+      "previous_sibling": "node_9_1586282121083"
+    },
+    {
+      "type": "standard",
+      "title": "h",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "PROTECTION MEASURES FOR EVERYONE :\n\nStay aware of the latest information on the COVID-19 outbreak, available on the national,state and local public health authority. Many countries around the world have seen cases of COVID-19 and several have seen outbreaks. Authorities in China and some other countries\nhave succeeded in slowing or stopping their outbreaks. However, the situation is unpredictable so check regularly for the latest news.\n\nYou can reduce your chances of being infected or spreading COVID-19 by taking some simple precautions:\n\n-> Regularly and thoroughly clean your hands with an alcohol-\nbased hand rub or wash them with soap and water.\nWhy? Washing your hands with soap and water or using\nalcohol-based hand rub kills viruses that may be on your hands.\n\n-> Maintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing.\nWhy? When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease.\n\n-> Avoid touching eyes, nose and mouth.\nWhy? Hands touch many surfaces and can pick up viruses.\nOnce contaminated, hands can transfer the virus to your eyes,\nnose or mouth. From there, the virus can enter your body and\ncan make you sick. Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. \n"
+              },
+              {
+                "text": "-> dispose of the used tissue immediately.\nWhy? Droplets spread virus. By following good respiratory\nhygiene you protect the people around you from viruses such as cold, flu and COVID-19.\n\n-> Stay home if you feel unwell. If you have a fever, cough and\ndifficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority.\nWhy? National and local authorities will have the most up to date information on the situation in your area. Calling in advance will allow your health care provider to quickly direct you to the right health facility. This will also protect you and help prevent spread of viruses and other infections.\nKeep up to date on the latest COVID-19 hotspots (cities or local areas where COVID-19 is spreading widely). \n\n->If possible, avoid traveling to places – especially if you are an older person or have diabetes, heart or lung disease.\nWhy? You have a higher chance of catching COVID-19 in one of these areas.\n\n\nPROTECTON MEASURES FOR PERSONS WHO ARE IN OR HAVE RECENTLY VISITED (PAST\n14 DAYS) AREAS WHERE COVID-19 IS SPREADING :\n\nFollow the guidance outlined above (Protection measures for\neveryone)\n\n-> Self-isolate by staying at home if you begin to feel unwell, even with mild symptoms such as headache, low grade fever (37.3 C or above) and slight runny nose, until you recover. If it is essential for you to have someone bring you supplies or to go out, e.g. to buy food, then wear a mask to avoid infecting other people.\nWhy? Avoiding contact with others and visits to medical facilities will allow these facilities to operate more effectively and help protect you and others from possible COVID-19 and other viruses.\n\n-> If you develop fever, cough and difficulty breathing, seek\nmedical advice promptly as this may be due to a respiratory\ninfection or other serious condition. Call in advance and tell your provider of any recent travel or contact with travelers.\nWhy? Calling in advance will allow your health care provider to\nquickly direct you to the right health facility. This will also help to prevent possible spread of COVID-19 and other viruses."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#h",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1586356882084",
+      "previous_sibling": "node_6_1586357545467"
+    },
+    {
+      "type": "standard",
+      "title": "10",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the link to obtain PATIENT DATABASE - COVID19 INDIA"
+              },
+              {
+                "text": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_2y5N0I67wDU38DjDh35IZSIS30rQf7_NYZhtYYGU1jJYT6_kDx4YpF-qw0LSlGsBYP8pqM_a1Pd/pubhtml"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#10",
+      "dialog_node": "node_4_1586626495021",
+      "previous_sibling": "node_2_1586626568938"
+    },
+    {
+      "type": "standard",
+      "title": "14",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the link for "
+              },
+              {
+                "text": "POINT OF CONTACT AND HELPFUL LINK :"
+              },
+              {
+                "text": "-> HELPLINE NUMBERS [BY STATE] - \nHTTPS://WWW.MOHFW.GOV.IN/PDF/CORONVAVIRUSHELPLINENUMBER.PDF\n\n-> MINISTRY OF HEALTH AND FAMILY WELFARE, GOV. OF INDIA -\nHTTPS://WWW.MOHFW.GOV.IN/\n\n-> WHO : COVID-19 HOME PAGE - \nHTTPS://WWW.WHO.INT/EMERGENCIES/DISEASES/NOVEL-CORONAVIRUS-2019\n\n-> CENTRES FOR DISEASE CONTROL & PREVENTION - \nHTTPS://WWW.CDC.GOV/CORONAVIRUS/2019-NCOV/FAQ.HTML\n\n-> COVID-19 GLOBAL TRACKER - \nHTTPS://CORONAVIRUS.THEBASELAB.COM/"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#14",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1586629716962",
+      "previous_sibling": "node_4_1586274314674"
+    },
+    {
+      "type": "standard",
+      "title": "u",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes. The likelihood of an infected person contaminating commercial goods is low and the risk of catching the virus that causes COVID-19 from a package that has been moved, travelled, and exposed to different conditions and temperature is also low."
+              },
+              {
+                "text": "-----------------------------------------------"
+              },
+              {
+                "text": "Press : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#u",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_7_1586358522418",
+      "previous_sibling": "node_7_1586358575639"
+    },
+    {
+      "type": "standard",
+      "title": "r",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Corona viruses are a large family of viruses that are common in animals. Occasionally, people get infected with these viruses which may then spread to other people. For example, SARS-CoV was associated with civet cats and MERS-CoV is transmitted by dromedary camels. Possible animal sources of COVID-19 have not yet been confirmed.\nTo protect yourself, such as when visiting live animal markets, avoid direct contact with animals and surfaces in contact with animals. Ensure good food safety practices at all times. Handle raw meat, milk or animal organs with care to avoid contamination of uncooked foods and avoid consuming raw or under cooked animal products."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#r",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1586358321431",
+      "previous_sibling": "node_2_1586358406714"
+    },
+    {
+      "type": "standard",
+      "title": "m",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Not yet. To date, there is no vaccine and no specific antiviral medicine to prevent or treat COVID-2019. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care.Possible vaccines and some specific drug treatments are under investigation. They are being tested through clinical trials. The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue, and maintain a distance of at least 1 meter (3 feet) from people who are coughing or sneezing"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#m",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1586357867773",
+      "previous_sibling": "node_1_1586357943700"
+    },
+    {
+      "type": "standard",
+      "title": "e",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Studies to date suggest that the virus that causes COVID-19 is mainly transmitted through contact with respiratory droplets rather than through the air. See previous answer on “How does COVID-19 spread?”"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#e",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1586356728888",
+      "previous_sibling": "node_2_1586356784832"
+    },
+    {
+      "type": "standard",
+      "title": "13",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the link  for "
+              },
+              {
+                "text": "OBTAINING RATION CARD QUOTA/DETAILS  :"
+              },
+              {
+                "text": "http://www.mahaepos.gov.in/SRC_Trans_Int.jsp"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#13",
+      "dialog_node": "node_9_1586626756010",
+      "previous_sibling": "node_5_1586629716962"
+    },
+    {
+      "type": "standard",
+      "title": "t",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It is not certain how long the virus that causes COVID-19 survives on surfaces, but it seems to behave like other corona viruses. Studies suggest that corona viruses (including preliminary information on the COVID-19 virus) may persist on surfaces for a few hours or up to several days. This may vary under different conditions (e.g. type of surface, temperature or humidity of the environment).\nIf you think a surface may be infected, clean it with simple disinfectant to kill the virus and protect yourself and others. Clean your hands withan alcohol-based hand rub or wash them with soap and water. Avoid touching your eyes, mouth, or nose."
+              },
+              {
+                "text": "-----------------------------------------------"
+              },
+              {
+                "text": "Press : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#t",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_10_1586358460299",
+      "previous_sibling": "node_7_1586358522418"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the list of Helpline numbers with respect to States & Union Territories (UTs)"
+              },
+              {
+                "text": "Central Helpline Number for corona-virus: - +91-11-23978046"
+              },
+              {
+                "text": "S. No Name of the State Helpline Nos.\n1 Andhra Pradesh 0866-2410978\n2 Arunachal Pradesh 9436055743\n3 Assam 6913347770\n4 Bihar 104\n5 Chhattisgarh 104\n6 Goa 104\n7 Gujarat 104\n8 Haryana 8558893911\n9 Himachal Pradesh 104\n10 Jharkhand 104\n11 Karnataka 104\n12 Kerala 0471-2552056\n13 Madhya Pradesh 104\n14 Maharashtra 020-26127394\n15 Manipur 3852411668\n16 Meghalaya 108\n17 Mizoram 102\n18 Nagaland 7005539653\n19 Odisha 9439994859\n20 Punjab 104\n21 Rajasthan 0141-2225624\n22 Sikkim 104\n23 Tamil Nadu 044-29510500\n24 Telangana 104\n25 Tripura 0381-2315879\n26 Uttarakhand 104\n27 Uttar Pradesh 18001805145\n28 West Bengal 1800313444222, 03323412600"
+              },
+              {
+                "text": "S. No Name of Union Territory (UT) Helpline Nos.\n1 Andaman and Nicobar Islands 03192-232102\n2 Chandigarh 9779558282\n3 Dadra and Nagar Haveli and Daman & Diu 104\n4 Delhi 011-22307145\n5 Jammu & Kashmir 01912520982, 0194-2440283\n6 Ladakh 01982256462\n7 Lakshadweep 104\n8 Puducherry 104"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#2",
+      "dialog_node": "node_9_1586282121083",
+      "previous_sibling": "node_10_1586284163902"
+    },
+    {
+      "type": "standard",
+      "title": "a",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Corona viruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#a",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1586352001990",
+      "previous_sibling": "node_6_1586352284181"
+    },
+    {
+      "type": "standard",
+      "title": "9",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the link to obtain VISIUALISED DATABASE - COVID19 INDIA"
+              },
+              {
+                "text": "https://www.covid19india.org/deepdive"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#9",
+      "dialog_node": "node_9_1586626376625",
+      "previous_sibling": "node_4_1586626495021"
+    },
+    {
+      "type": "standard",
+      "title": "g",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The risk of catching COVID-19 from the feces of an infected person appears to be low. While initial investigations suggest the virus may be present in feces in some cases, spread through this route is not amain feature of the outbreak. The ongoing research on the ways COVID-19 is spread and will continue to share new findings. Because this is a risk, however, it is another reason to clean hands regularly, after using the bathroom and before eating."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#g",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_10_1586356830326",
+      "previous_sibling": "node_1_1586356882084"
+    },
+    {
+      "type": "standard",
+      "title": "5",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the list of websites to obtain E-Pass with respect to state :"
+              },
+              {
+                "text": "1. Delhi - https://epass.jantasamvad.org/epass/relief/english/\n2. Haryana - https://covidssharyana.in/\n3. UP - http://164.100.68.164/upepass2/\n4. Madhya Pradesh - https://mapit.gov.in/covid-19/\n5. Jharkhand - https://play.google.com/store/apps/details?id=com.pragyaam.grid.mobile&hl=en_IN\n6. Uttarakhand - https://policecitizenportal.uk.gov.in/e_pass/Home/Index\n7. Kolkata - https://coronapass.kolkatapolice.org/\n8. Assam - http://103.8.249.88/applyonline/index.php/gatepasscontrol/applycaronline\n9. Chandigarh - http://admser.chd.nic.in/dpc/Default.aspx\n10. Punjab - https://epasscovid19.pais.net.in/\n11. Goa - https://goaonline.gov.in/Public/UserRegistration_af\n12. Himachal Pradesh - http://covidepass.hp.gov.in/apply-for-e-pass/\n13. Tamilnadu - https://serviceonline.gov.in/tamilnadu/login.do?\n14. Kerala - https://pass.bsafe.kerala.gov.in/\n15. Maharashtra - covid19.mhpolice.in/\n16. Rajasthan - https://play.google.com/store/apps/details?id=com.datainfosys.rajasthanpolice.publicapp\n17. Bihar - https://serviceonline.bihar.gov.in/error.do\n18. Karnataka - https://play.google.com/store/apps/details?id=com.mygate.express&hl=en\n19. Gujrat - digitalgujarat.gove.in\n20. Andra Pradesh - https://gramawardsachivalayam.ap.gov.in/CVPASSAPP/CV/CVOrganizationRegistration\n21. Telengana - Emergency allowed without pass\n22. Chhattisgarh - https://play.google.com/store/apps/details?id=com.allsoft.corona\n"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#5",
+      "dialog_node": "node_8_1586286576228",
+      "previous_sibling": "node_6_1586286978591"
+    },
+    {
+      "type": "standard",
+      "title": "i",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The risk depends on where you are - and more specifically, whether there is a COVID-19 outbreak unfolding there.\nFor most people in most locations the risk of catching COVID-19 is still low. However, there are now places around the world (cities or areas) where the disease is spreading. For people living in, or visiting, these areas the risk of catching COVID-19 is higher. Governments and health authorities are taking vigorous action every time a new case of COVID-19 is identified. Be sure to comply with any local restrictions on travel, movement or large gatherings. Cooperating with\ndisease control efforts will reduce your risk of catching or spreading COVID-19. COVID-19 outbreaks can be contained and transmission stopped, as has been shown in China and some other countries. Unfortunately, new outbreaks can emerge rapidly. It’s important to be aware of the\nsituation where you are or intend to go."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#i",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1586357545467",
+      "previous_sibling": "node_5_1586357646216"
+    },
+    {
+      "type": "standard",
+      "title": "11",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the link for "
+              },
+              {
+                "text": "ESSENTIAL - FOOD, CLOTH, SHELTER & EMOTIONAL SUPPORT (STATE & CITY) WISE :"
+              },
+              {
+                "text": "https://www.covid19india.org/essentials"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#11",
+      "dialog_node": "node_2_1586626568938",
+      "previous_sibling": "node_3_1586626665485"
+    },
+    {
+      "type": "standard",
+      "title": "q",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The “incubation period” means the time between catching the virus and beginning to have symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days. These estimates will be updated as more data become available."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#q",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1586358269533",
+      "previous_sibling": "node_5_1586358321431"
+    },
+    {
+      "type": "standard",
+      "title": "3",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the list of essential services :"
+              },
+              {
+                "text": "1. Law and order magisterial duties\n2. Police\n3. Fire\n4. Electricity\n5. Water\n6. Food Supply\n7. Govt Health Worker\n8. Treasury\n9. Urban Local Bodies and Rural Devlopment\n10. Public Bank Employee\n11. Telecomm/ITES\n12. Postal Services\n13. Media\n14. ATM/Banks\n15. Patient\n16. Death Case\n17. Other Govt. Employee\n18. Essential supply transportation\n19. Essential supply distribution\n20. Essential items manufacturing\n21. Private health practitioner\n22. Private courier"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#3",
+      "dialog_node": "node_10_1586284163902",
+      "previous_sibling": "node_2_1586285008777"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hey there ! Greetings Of the day. I am Covidify welcome you to Covid-19 India helpdesk."
+              },
+              {
+                "text": "We are happy to serve you 24*7."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : Yes for proceeding with key services."
+              },
+              {
+                "text": "Press : No for aborting chatbot."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Greetings",
+      "dialog_node": "node_7_1586272506145",
+      "previous_sibling": "node_6_1586618491477"
+    },
+    {
+      "type": "standard",
+      "title": "s",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "While there has been one instance of a dog being infected in Hong Kong, to date, there is no evidence that a dog, cat or any pet can transmit COVID-19. COVID-19 is mainly spread through droplets produced when an infected person coughs, sneezes, or speaks. To protect yourself, clean your hands frequently and thoroughly. We continues to monitor the latest research on this and other COVID-19 topics and will update as new findings are available."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#s",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1586358406714",
+      "previous_sibling": "node_10_1586358460299"
+    },
+    {
+      "type": "standard",
+      "title": "8",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the list of statewise hotspot for COVID-19 :\n\nDELHI:\n1) Nizzamuddin West\n2) Dilshad Garden\n\nRAJASTHAN:\n1) Bhilwara\n2) Tonk City\n\nUTTAR PRADESH:\n1) Noida\n2) Meerut\n\nMAHARASHTRA:\n1) Mumbai\n2) Pune\n\nGUJARAT:\n1) Ahmedabad\n\nKERALA:\n1) Kasaragod\n2) Pathanamthitta\n\nMADHYA PRADESH:\n1) Bhopal\n2) Indore\n"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#8",
+      "dialog_node": "node_5_1586360021336",
+      "previous_sibling": "node_9_1586626376625"
+    },
+    {
+      "type": "standard",
+      "title": "p",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "1) Remember, a mask should only be used by health workers, care takers, and individuals with respiratory symptoms, such as fever and cough.\n2) Before touching the mask, clean hands with an alcohol-based hand rub or soap and water\n3) Take the mask and inspect it for tears or holes.\n4) Orient which side is the top side (where the metal strip is).\n5) Ensure the proper side of the mask faces outwards (the coloured side).\n6) Place the mask to your face. Pinch the metal strip or stiff edge of the mask so it moulds to the shape of your nose.\n7) Pull down the mask’s bottom so it covers your mouth and your chin.\n8) After use, take off the mask; remove the elastic loops from behind the ears while keeping the mask away from your face and clothes, to avoid touching potentially contaminated surfaces of the mask.\n9) Discard the mask in a closed bin immediately after use.\n10) Perform hand hygiene after touching or discarding the mask – Use alcohol-based hand rub or, if visibly soiled, wash your hands with soap and water."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#p",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1586358078098",
+      "previous_sibling": "node_5_1586358269533"
+    },
+    {
+      "type": "standard",
+      "title": "Abort",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for choosing Covidify AI Chatbot."
+              },
+              {
+                "text": "It’s our pleasure to serve you and we appreciate your valuable time.\n-----------------------------------------------\nTeam COVIDIFY "
+              },
+              {
+                "text": "Gmail : iamsnimbalkar"
+              },
+              {
+                "text": "Mobile : 9860897401"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Abort",
+      "dialog_node": "node_1_1586619378540",
+      "previous_sibling": "node_7_1586272506145"
+    },
+    {
+      "type": "standard",
+      "title": "d",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a\nperson with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#d",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_10_1586356674489",
+      "previous_sibling": "node_9_1586356728888"
+    },
+    {
+      "type": "standard",
+      "title": "j",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions (such as high blood pressure, heart disease, lung disease, cancer or diabetes) appear to develop serious illness more often than others."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#j",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1586357646216",
+      "previous_sibling": "node_8_1586357780006"
+    },
+    {
+      "type": "standard",
+      "title": "4",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the list of documents required to obtain a pass :"
+              },
+              {
+                "text": "1. Applicant District\n2. Applicants Village Name\n3. Applicants Name\n4. Mobile Number\n5. Government Id\n6. UID-PAN-VOTERid-DL\n7. Vehicle Registration Number (RC)\n8. Other required docs & details (statewise)"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#4",
+      "dialog_node": "node_2_1586285008777",
+      "previous_sibling": "node_8_1586286576228"
+    },
+    {
+      "type": "standard",
+      "title": "o",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Only wear a mask if you are ill with COVID-19 symptoms (especially coughing) or looking after someone who may have COVID-19. Disposable face mask can only be used once. If you are not ill or looking after someone who is ill then you are wasting a mask. There is a world-wide shortage of masks, so We urge people to use masks wisely. We advises rational use of medical masks to avoid unnecessary wastage of precious resources and mis-use of masks The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue and maintain a distance of at least 1 meter (3 feet) from people who are coughing or sneezing."
+              },
+              {
+                "text": "-----------------------------------------------\nPress : 1 to return FAQ\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#o",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1586357997956",
+      "previous_sibling": "node_3_1586358078098"
+    },
+    {
+      "type": "standard",
+      "title": "12",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the link for "
+              },
+              {
+                "text": "CORONA SAHAYATA TEAM - STATISTIC, INSTRUCTIONS & IMPORTANT CONTACTS (INDIA) :"
+              },
+              {
+                "text": "https://coronasahayata.in/"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : HOME for key services\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#12",
+      "dialog_node": "node_3_1586626665485",
+      "previous_sibling": "node_9_1586626756010"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_6_1586352001990",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Response to HowMayI",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am happy to serve you with below mentioned details."
+              },
+              {
+                "text": "Kindly select right number based on your requirements. "
+              },
+              {
+                "text": "1) ALL ABOUT COVID-19"
+              },
+              {
+                "text": "2) INDIA HELPLINE "
+              },
+              {
+                "text": "3) CURFEW E-PASSES ESSENTIAL SERVICES LIST"
+              },
+              {
+                "text": "4) DETAILS REQUIRED TO OBTAIN E-PASS"
+              },
+              {
+                "text": "5) E-PASS ONLINE STATE WISE WEBSITES"
+              },
+              {
+                "text": "6) AAROGYA SETU APP : COVID-19 TRACKER"
+              },
+              {
+                "text": "7) LIST OF COVID-19 TESTING & SAMPLE COLLECTION LABS CENTRES"
+              },
+              {
+                "text": "8) STATEWISE HOTSPOT FOR COVID-19 "
+              },
+              {
+                "text": "9) VISUALISED DATABASE : COVID-19 INDIA"
+              },
+              {
+                "text": "10) PATIENT DATABASE : COVID-19 INDIA"
+              },
+              {
+                "text": "11) ESSENTIAL - FOOD, CLOTH, SHELTER & EMOTIONAL SUPPORT (STATE & CITY) WISE"
+              },
+              {
+                "text": "12) CORONA SAHAYATA TEAM - STATISTIC, INSTRUCTIONS & IMPORTANT CONTACTS (INDIA)"
+              },
+              {
+                "text": "13) KNOW ABOUT RATION CARD QUOTA/DETAILS "
+              },
+              {
+                "text": "14) POINT OF CONTACT AND HELPFUL LINK"
+              },
+              {
+                "text": "-----------------------------------------------\nPress : EXIT to abort chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#User_response_for_Services.",
+      "dialog_node": "node_4_1586274314674",
+      "previous_sibling": "node_1_1586619378540"
+    },
+    {
+      "type": "standard",
+      "title": "!! Welcome to Covidify !!",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "!! Welcome to Covidify !!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "node_6_1586618491477"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "corona"
+    }
+  ],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "My first skill",
+  "language": "en",
+  "description": ""
+}
